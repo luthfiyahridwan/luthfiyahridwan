@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @luthfiyahridwan
 - 👀 I’m interested in data
-- 🌱 I’m currently learning data analsyt at Generasi GIGIH 2.0 BY YABB & GoTo
+- 🌱 I used to be a data analsyt student at Generasi GIGIH 2.0 BY YABB & GoTo
+- 😎 Now I am a data science student bootcamp at Digital Skola
 - 💞️ I’m looking to collaborate on projects related to data
 - 📫 How to reach me on email: ridwanluthfiyah@gmail.com
 
